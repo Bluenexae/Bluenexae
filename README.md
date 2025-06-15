@@ -1,9 +1,8 @@
 # Hi there, I’m @Bluenexae 👋
 
-- 👀 Interested in hands-on cybersecurity: network traffic analysis, host telemetry, and detection engineering  
-- 🌱 Currently learning Zeek, Python scripting for log parsing, and IDS rule tuning  
-- 💻 Building projects on attack simulation, log automation, and alert development  
-- 📚 Focused on real-world skills beyond certifications  
+- 👀 Interested in hands-on cybersecurity: network traffic analysis, host telemetry, and penetration testing 
+- 🌱 Currently learning Zeek, Python scripting for log parsing, and exploring offensive security
+- 💻 Building projects on attack simulation, log automation, and alert development   
 
 Always open to feedback and collaboration — feel free to explore my work!
 
